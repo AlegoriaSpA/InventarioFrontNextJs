@@ -15,7 +15,7 @@
      
         >
 
-          <span class="ms-1 font-weight-bold">Punto de venta</span>
+          <span class="ms-1 font-weight-bold">Control de Inventario</span>
         </a>
       </div>
       <hr class="horizontal dark mt-0" />
